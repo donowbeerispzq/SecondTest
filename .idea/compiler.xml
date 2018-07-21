@@ -9,5 +9,8 @@
         <module name="SecondTest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SecondTest" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
